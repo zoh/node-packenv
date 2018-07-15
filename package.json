@@ -1,0 +1,17 @@
+{
+  "name": "node-packenv",
+  "version": "1.0.1",
+  "description": "package packaging JSON objects in .env files",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "env",
+    "pack"
+  ],
+  "bin": {
+    "packenv": "./bin/cli.js"
+  },
+  "author": "zoh",
+  "license": "ISC"
+}
