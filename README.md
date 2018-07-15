@@ -30,7 +30,7 @@ Where ./.env_files/.env_cfg - path to u file with PACKENV=...
 
 ### Install
 ```
-    npm install [-g] packenv
+    npm install [-g] node-packenv
 ```
 
 ### Simple use
